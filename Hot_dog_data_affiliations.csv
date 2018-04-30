@@ -1,0 +1,50 @@
+year,gender,name,num_eaten,affiliated,duration,HDM
+2017,male,Joey Chestnut,72,current,10,7.2
+2017,female,Miki Sudo,41,current,10,4.1
+2016,male,Joey Chestnut,70,current,10,7
+2016,female,Miki Sudo,38,current,10,3.8
+2015,male,Matthew Stonie,62,current,10,6.2
+2015,female,Miki Sudo,38,current,10,3.8
+2014,male,Joey Chestnut,61,current,10,6.1
+2014,female,Miki Sudo,34,current,10,3.4
+2013,male,Joey Chestnut,69,current,10,6.9
+2013,female,Sonya Thomas,36.75,current,10,3.675
+2012,male,Joey Chestnut,68,current,10,6.8
+2012,female,Sonya Thomas,45,current,10,4.5
+2011,male,Joey Chestnut,62,current,10,6.2
+2011,female,Sonya Thomas,40,current,10,4
+2010,male,Joey Chestnut,54,current,10,5.4
+2009,male,Joey Chestnut,68,current,10,6.8
+2008,male,Joey Chestnut,59,current,10,5.9
+2007,male,Joey Chestnut,66,current,12,5.5
+2006,male,Takeru Kobayashi,53.75,former,12,4.47916666666667
+2005,male,Takeru Kobayashi,49,former,12,4.08333333333333
+2004,male,Takeru Kobayashi,53.5,former,12,4.45833333333333
+2003,male,Takeru Kobayashi,44.5,former,12,3.70833333333333
+2002,male,Takeru Kobayashi,50,former,12,4.16666666666667
+2001,male,Takeru Kobayashi,50,former,12,4.16666666666667
+2000,male,Kazutoyo Arai,25.125,not affiliated,12,2.09375
+1999,male,Steve Keiner,20.25,not affiliated,12,1.6875
+1998,male,Hirofumi Nakajima,19,not affiliated,12,1.58333333333333
+1997,male,Hirofumi Nakajima,24.5,not affiliated,12,2.04166666666667
+1996,male,Ed Krachie,22.25,not affiliated,12,1.85416666666667
+1995,male,Ed Krachie,19.5,not affiliated,12,1.625
+1994,male,Mike Devito,20,not affiliated,,0
+1993,male,Mike Devito,17,not affiliated,12,1.41666666666667
+1992,male,Frank Dellarosa,19,not affiliated,12,1.58333333333333
+1991,male,Frank Dellarosa,21.5,not affiliated,12,1.79166666666667
+1990,male,Mike Devito,16,not affiliated,12,1.33333333333333
+1989,male,Jay Green,15.5,not affiliated,12,1.29166666666667
+1988,male,Jay Green,10,not affiliated,12,0.833333333333333
+1987,male,Don Wolfman,13.5,not affiliated,10,1.35
+1986,male,Mark Heller,15.5,not affiliated,10,1.55
+1985,male,Oscar Rodriguez,11.75,not affiliated,12,0.979166666666667
+1984,male,Birgit Felden,9.5,not affiliated,10,0.95
+1983,male,Emil Gomez,10.5,not affiliated,10,1.05
+1982,male,Steven Abrams,11,not affiliated,,0
+1981,male,Thomas Deberry,11,not affiliated,,0
+1980,male,Paul Siderman & Joe Baldini,9,not affiliated,10,0.9
+1979,male,Thomas Stash,19,not affiliated,,0
+1978,male,Manel Hollenback,10,not affiliated,6.5,1.53846153846154
+1974,male,Roberto Muriel,10,not affiliated,3.5,2.85714285714286
+1972,male,Jason Schechter,14,not affiliated,3.5,4
